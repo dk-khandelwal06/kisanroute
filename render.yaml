@@ -1,0 +1,22 @@
+services:
+  - type: web
+    name: kisanroute-api
+    env: python
+    region: singapore
+    plan: free
+    buildCommand: pip install -r backend/requirements.txt
+    startCommand: uvicorn backend.main:app --host 0.0.0.0 --port $PORT
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.11.8
+      - key: ENV
+        value: production
+      - key: MODEL_PATH
+        value: ml/models/best_model_pipeline.joblib
+      - key: METRICS_PATH
+        value: ml/evaluation_metrics.json
+      - key: METADATA_PATH
+        value: ml/model_metadata.json
+      - key: ALLOWED_ORIGINS
+        value: "*"
+
