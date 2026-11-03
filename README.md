@@ -24,7 +24,7 @@ An AI-powered agricultural query classification and intelligent routing platform
 
 <br/>
 
-**[🌐 Live Demo](https://kisanroute.vercel.app/)** &nbsp;·&nbsp; **[📦 GitHub Repository](https://github.com/dk-khandelwal06/kisanroute)** &nbsp;·&nbsp; **[👤 LinkedIn](https://www.linkedin.com/in/daksh-khandelwal-b02748391/)**
+**[🌐 Live Demo](https://kisanroute.vercel.app/)** &nbsp;·&nbsp; **[📦 GitHub Repository](https://github.com/dk-khandelwal06/kisanroute)** &nbsp;·&nbsp; **[👤 LinkedIn](https://www.linkedin.com/in/daksh-khandelwal-b02748391/) &nbsp;·&nbsp; **[🎥 Demo Video]()**
 
 </div>
 
@@ -344,7 +344,7 @@ Full system architecture and API specification: **[`docs/ARCHITECTURE.md`](docs/
 
 <div align="center">
 
-**Daksh Khandelwal**
+**Daksh Khandelwal**  
 Applied AI & Data Science Undergraduate · IIT Jodhpur
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daksh-khandelwal-b02748391/)
