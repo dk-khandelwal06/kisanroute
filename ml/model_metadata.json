@@ -1,0 +1,19 @@
+{
+  "model_name": "Multinomial Naive Bayes",
+  "version": "1.0.0",
+  "pipeline_components": [
+    "TfidfVectorizer(ngram_range=(1,2))",
+    "MultinomialNB(alpha=0.3)"
+  ],
+  "categories": [
+    "Government Schemes",
+    "Market Information",
+    "Nutrient Management",
+    "Plant Protection",
+    "Weather"
+  ],
+  "vocabulary_size": 2500,
+  "test_accuracy": 0.9143,
+  "macro_f1": 0.9125,
+  "date_trained": "2026-11-03"
+}

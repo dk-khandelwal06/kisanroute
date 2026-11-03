@@ -1,0 +1,390 @@
+{
+  "dataset_metadata": {
+    "dataset_name": "KisanRoute-AgriBench v1.0",
+    "total_samples": 350,
+    "train_samples": 280,
+    "test_samples": 70,
+    "categories": [
+      "Government Schemes",
+      "Market Information",
+      "Nutrient Management",
+      "Plant Protection",
+      "Weather"
+    ],
+    "class_distribution": {
+      "Plant Protection": 70,
+      "Weather": 70,
+      "Government Schemes": 70,
+      "Nutrient Management": 70,
+      "Market Information": 70
+    },
+    "provenance": "Curated Indian Kisan Call Centre (KCC) inquiry archetypes & ICAR advisory domains."
+  },
+  "best_model": "Multinomial Naive Bayes",
+  "models_comparison": {
+    "Majority-Class Baseline": {
+      "model_name": "Majority-Class Baseline",
+      "accuracy": 0.2,
+      "macro_precision": 0.04,
+      "macro_recall": 0.2,
+      "macro_f1": 0.0667,
+      "cv_f1_mean": 0.0657,
+      "cv_f1_std": 0.0,
+      "confusion_matrix": [
+        [
+          14,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          14,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          14,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          14,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          14,
+          0,
+          0,
+          0,
+          0
+        ]
+      ],
+      "classification_report": {
+        "Government Schemes": {
+          "precision": 0.2,
+          "recall": 1.0,
+          "f1-score": 0.3333333333333333,
+          "support": 14.0
+        },
+        "Market Information": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1-score": 0.0,
+          "support": 14.0
+        },
+        "Nutrient Management": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1-score": 0.0,
+          "support": 14.0
+        },
+        "Plant Protection": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1-score": 0.0,
+          "support": 14.0
+        },
+        "Weather": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1-score": 0.0,
+          "support": 14.0
+        },
+        "accuracy": 0.2,
+        "macro avg": {
+          "precision": 0.04,
+          "recall": 0.2,
+          "f1-score": 0.06666666666666667,
+          "support": 70.0
+        },
+        "weighted avg": {
+          "precision": 0.04,
+          "recall": 0.2,
+          "f1-score": 0.06666666666666665,
+          "support": 70.0
+        }
+      }
+    },
+    "Multinomial Naive Bayes": {
+      "model_name": "Multinomial Naive Bayes",
+      "accuracy": 0.9143,
+      "macro_precision": 0.9199,
+      "macro_recall": 0.9143,
+      "macro_f1": 0.9125,
+      "cv_f1_mean": 0.8474,
+      "cv_f1_std": 0.0194,
+      "confusion_matrix": [
+        [
+          14,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          13,
+          0,
+          0,
+          1
+        ],
+        [
+          0,
+          0,
+          10,
+          3,
+          1
+        ],
+        [
+          0,
+          0,
+          0,
+          14,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          13
+        ]
+      ],
+      "classification_report": {
+        "Government Schemes": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 14.0
+        },
+        "Market Information": {
+          "precision": 1.0,
+          "recall": 0.9285714285714286,
+          "f1-score": 0.9629629629629629,
+          "support": 14.0
+        },
+        "Nutrient Management": {
+          "precision": 0.9090909090909091,
+          "recall": 0.7142857142857143,
+          "f1-score": 0.8,
+          "support": 14.0
+        },
+        "Plant Protection": {
+          "precision": 0.8235294117647058,
+          "recall": 1.0,
+          "f1-score": 0.9032258064516129,
+          "support": 14.0
+        },
+        "Weather": {
+          "precision": 0.8666666666666667,
+          "recall": 0.9285714285714286,
+          "f1-score": 0.896551724137931,
+          "support": 14.0
+        },
+        "accuracy": 0.9142857142857143,
+        "macro avg": {
+          "precision": 0.9198573975044564,
+          "recall": 0.9142857142857143,
+          "f1-score": 0.9125480987105015,
+          "support": 70.0
+        },
+        "weighted avg": {
+          "precision": 0.9198573975044564,
+          "recall": 0.9142857142857143,
+          "f1-score": 0.9125480987105014,
+          "support": 70.0
+        }
+      }
+    },
+    "Logistic Regression": {
+      "model_name": "Logistic Regression",
+      "accuracy": 0.8714,
+      "macro_precision": 0.8738,
+      "macro_recall": 0.8714,
+      "macro_f1": 0.8687,
+      "cv_f1_mean": 0.8185,
+      "cv_f1_std": 0.0437,
+      "confusion_matrix": [
+        [
+          12,
+          0,
+          2,
+          0,
+          0
+        ],
+        [
+          0,
+          13,
+          0,
+          0,
+          1
+        ],
+        [
+          0,
+          1,
+          9,
+          3,
+          1
+        ],
+        [
+          0,
+          0,
+          0,
+          14,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          13
+        ]
+      ],
+      "classification_report": {
+        "Government Schemes": {
+          "precision": 1.0,
+          "recall": 0.8571428571428571,
+          "f1-score": 0.9230769230769231,
+          "support": 14.0
+        },
+        "Market Information": {
+          "precision": 0.9285714285714286,
+          "recall": 0.9285714285714286,
+          "f1-score": 0.9285714285714286,
+          "support": 14.0
+        },
+        "Nutrient Management": {
+          "precision": 0.75,
+          "recall": 0.6428571428571429,
+          "f1-score": 0.6923076923076923,
+          "support": 14.0
+        },
+        "Plant Protection": {
+          "precision": 0.8235294117647058,
+          "recall": 1.0,
+          "f1-score": 0.9032258064516129,
+          "support": 14.0
+        },
+        "Weather": {
+          "precision": 0.8666666666666667,
+          "recall": 0.9285714285714286,
+          "f1-score": 0.896551724137931,
+          "support": 14.0
+        },
+        "accuracy": 0.8714285714285714,
+        "macro avg": {
+          "precision": 0.8737535014005602,
+          "recall": 0.8714285714285713,
+          "f1-score": 0.8687467149091177,
+          "support": 70.0
+        },
+        "weighted avg": {
+          "precision": 0.8737535014005603,
+          "recall": 0.8714285714285714,
+          "f1-score": 0.8687467149091175,
+          "support": 70.0
+        }
+      }
+    }
+  },
+  "evaluation_summary": {
+    "model_name": "Multinomial Naive Bayes",
+    "accuracy": 0.9143,
+    "macro_precision": 0.9199,
+    "macro_recall": 0.9143,
+    "macro_f1": 0.9125,
+    "cv_f1_mean": 0.8474,
+    "cv_f1_std": 0.0194,
+    "confusion_matrix": [
+      [
+        14,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        13,
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        10,
+        3,
+        1
+      ],
+      [
+        0,
+        0,
+        0,
+        14,
+        0
+      ],
+      [
+        0,
+        0,
+        1,
+        0,
+        13
+      ]
+    ],
+    "classification_report": {
+      "Government Schemes": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 14.0
+      },
+      "Market Information": {
+        "precision": 1.0,
+        "recall": 0.9285714285714286,
+        "f1-score": 0.9629629629629629,
+        "support": 14.0
+      },
+      "Nutrient Management": {
+        "precision": 0.9090909090909091,
+        "recall": 0.7142857142857143,
+        "f1-score": 0.8,
+        "support": 14.0
+      },
+      "Plant Protection": {
+        "precision": 0.8235294117647058,
+        "recall": 1.0,
+        "f1-score": 0.9032258064516129,
+        "support": 14.0
+      },
+      "Weather": {
+        "precision": 0.8666666666666667,
+        "recall": 0.9285714285714286,
+        "f1-score": 0.896551724137931,
+        "support": 14.0
+      },
+      "accuracy": 0.9142857142857143,
+      "macro avg": {
+        "precision": 0.9198573975044564,
+        "recall": 0.9142857142857143,
+        "f1-score": 0.9125480987105015,
+        "support": 70.0
+      },
+      "weighted avg": {
+        "precision": 0.9198573975044564,
+        "recall": 0.9142857142857143,
+        "f1-score": 0.9125480987105014,
+        "support": 70.0
+      }
+    }
+  }
+}

@@ -1,0 +1,351 @@
+query_id,query_text,category,sub_topic,crop
+KR-PP-001,My wheat leaves are turning yellow with brown powdery spots. What spray should I use?,Plant Protection,Pest Management,Wheat
+KR-PP-002,Yellow rust symptoms noticed in PBW 550 wheat crop. Suggest fungicide dosage.,Plant Protection,Disease,Wheat
+KR-PP-003,Termite attack in wheat field near root zone. Which chemical treatment is effective?,Plant Protection,Pest Management,Wheat
+KR-PP-004,Karnal bunt disease detected in wheat grains during earhead stage. How to prevent spread?,Plant Protection,Disease,Wheat
+KR-PP-005,Aphid infestation observed on wheat flag leaves. Is imidacloprid recommended?,Plant Protection,Pest Management,Wheat
+KR-PP-006,Paddy leaves have white feeding scratches and folded leaf tips. Is it leaf folder?,Plant Protection,Pest Management,Paddy
+KR-PP-007,Dead heart and white earhead seen in paddy field. How to control stem borer?,Plant Protection,Pest Management,Paddy
+KR-PP-008,Brown spots on rice grains and spindle-shaped blast lesions on leaves. Recommend treatment.,Plant Protection,Disease,Paddy
+KR-PP-009,Bacterial leaf blight in Basmati rice causing yellowing from leaf margins downward.,Plant Protection,Disease,Paddy
+KR-PP-010,Sheath blight in rice crop forming water-soaked oval lesions on leaf sheaths.,Plant Protection,Disease,Paddy
+KR-PP-011,Brown plant hopper BPH attack at base of paddy tillers causing hopper burn.,Plant Protection,Pest Management,Paddy
+KR-PP-012,Severe whitefly attack on Bt cotton leaves curling upwards and sticky honeydew.,Plant Protection,Pest Management,Cotton
+KR-PP-013,Pink bollworm larvae found inside cotton bolls during flower drop. What pheromone trap to use?,Plant Protection,Pest Management,Cotton
+KR-PP-014,American bollworm damaging square formation in cotton. Suggest chemical spray.,Plant Protection,Pest Management,Cotton
+KR-PP-015,Cotton leaf curl virus causing thickening of veins and enations on lower leaf surface.,Plant Protection,Disease,Cotton
+KR-PP-016,Mustard aphids (chepa) covering inflorescence and tender pods. Urgent spray recommendation.,Plant Protection,Pest Management,Mustard
+KR-PP-017,White rust pustules appearing on underside of mustard leaves and staghead malformation.,Plant Protection,Disease,Mustard
+KR-PP-018,Alternaria leaf blight in raya mustard with concentric dark brown rings on siliqua.,Plant Protection,Disease,Mustard
+KR-PP-019,Sclerotinia stem rot in brassica crop causing rotting of stem base and white cottony growth.,Plant Protection,Disease,Mustard
+KR-PP-020,Early shoot borer causing drying of central whorl in young sugarcane ratoon.,Plant Protection,Pest Management,Sugarcane
+KR-PP-021,Red rot disease in sugarcane with red discoloration of internal pith and alcoholic smell.,Plant Protection,Disease,Sugarcane
+KR-PP-022,Pyrilla bug sucking sap from sugarcane leaves causing sooty mould.,Plant Protection,Pest Management,Sugarcane
+KR-PP-023,Pod borer (Helicoverpa armigera) making holes in chickpea pods and eating seeds.,Plant Protection,Pest Management,Gram/Chickpea
+KR-PP-024,Fusarium wilt causing sudden drooping and drying of chickpea plants in patches.,Plant Protection,Disease,Gram/Chickpea
+KR-PP-025,Ascochyta blight in Bengal gram with dark necrotic spots on stems and leaves.,Plant Protection,Disease,Gram/Chickpea
+KR-PP-026,Tomato fruit borer and leaf miner creating serpentine mines on foliage.,Plant Protection,Pest Management,Tomato
+KR-PP-027,Early blight and late blight in tomato plants. Brown lesions and rotting fruit.,Plant Protection,Disease,Tomato
+KR-PP-028,Bacterial wilt causing sudden wilting of green tomato plants without prior yellowing.,Plant Protection,Disease,Tomato
+KR-PP-029,Potato tuber moth infesting stored potatoes and damaging foliage in field.,Plant Protection,Pest Management,Potato
+KR-PP-030,Late blight of potato with water-soaked dark lesions on leaf tips and white mildew under wet conditions.,Plant Protection,Disease,Potato
+KR-PP-031,Chilli leaf curl caused by thrips and mites. Leaves curling upwards and boat-shaped.,Plant Protection,Pest Management,Chilli
+KR-PP-032,Anthracnose and die-back in chilli crop causing fruit rot and circular sunken spots.,Plant Protection,Disease,Chilli
+KR-PP-033,Fall armyworm (FAW) caterpillar feeding in maize whorls and leaving sawdust-like frass.,Plant Protection,Pest Management,Maize
+KR-PP-034,Turcicum leaf blight in corn crop with long spindle-shaped greyish green lesions.,Plant Protection,Disease,Maize
+KR-PP-035,Thrips attack in onion crop causing silvery patches and curling of onion leaves.,Plant Protection,Pest Management,Onion
+KR-PP-036,Purple blotch disease in onion seed crop showing purplish brown spots with yellow halos.,Plant Protection,Disease,Onion
+KR-PP-037,Phalaris minor (gulli danda) weed resistance to clodinafop in wheat. Alternative herbicide?,Plant Protection,Weed Management,Wheat
+KR-PP-038,Echinochloa grass and broadleaf weeds in transplanted rice. Which pre-emergence herbicide?,Plant Protection,Weed Management,Paddy
+KR-PP-039,How to prepare neem seed kernel extract (NSKE 5%) for organic pest control?,Plant Protection,Biopesticide,General
+KR-PP-040,Trichoderma viride bio-fungicide seed treatment dose per kilogram of pulse seeds.,Plant Protection,Biopesticide,General
+KR-PP-041,Girdle beetle and semilooper attack damaging soybean leaves and stems.,Plant Protection,Pest Management,Soybean
+KR-PP-042,Yellow mosaic virus transmitted by whiteflies in soybean crop. How to manage?,Plant Protection,Disease,Soybean
+KR-PP-043,White grub damaging roots of groundnut crop resulting in sudden drying of plants.,Plant Protection,Pest Management,Groundnut
+KR-PP-044,Tikka disease (cercospora leaf spot) in groundnut causing premature leaf defoliation.,Plant Protection,Disease,Groundnut
+KR-PP-045,Shoot and fruit borer bore holes in eggplant shoots and fruits with frass.,Plant Protection,Pest Management,Brinjal
+KR-PP-046,Phomopsis blight and fruit rot in brinjal causing pale yellow spots and stem girdling.,Plant Protection,Disease,Brinjal
+KR-PP-047,Mango hopper nymph infestation during flowering stage causing blossom blight and fruit drop.,Plant Protection,Pest Management,Mango
+KR-PP-048,Powdery mildew on mango inflorescence causing premature flower drop and fruit loss.,Plant Protection,Disease,Mango
+KR-PP-049,Citrus psylla transmitting greening disease and leaf miner on fresh flush leaves.,Plant Protection,Pest Management,Citrus
+KR-PP-050,Citrus canker raised corky lesions on sweet orange leaves and fruit skins.,Plant Protection,Disease,Citrus
+KR-PP-051,Shoot and fruit borer in bhindi and jassid infestation causing hopper burn.,Plant Protection,Pest Management,Okra
+KR-PP-052,Yellow vein mosaic virus YVMV in bhendi crop. Leaves turning yellow with green veins.,Plant Protection,Disease,Okra
+KR-PP-053,Cumin aphid and thrips attack during flowering stage reducing seed set.,Plant Protection,Pest Management,Cumin
+KR-PP-054,Powdery mildew and blight in jeera crop under cloudy weather conditions.,Plant Protection,Disease,Cumin
+KR-PP-055,Banana pseudostem borer creating tunnels and jelly exudation from trunk.,Plant Protection,Pest Management,Banana
+KR-PP-056,Panama wilt and Sigatoka leaf spot disease in Grand Naine banana plants.,Plant Protection,Disease,Banana
+KR-PP-057,San Jose scale insect and European red mite infestation in apple orchards.,Plant Protection,Pest Management,Apple
+KR-PP-058,Apple scab disease dark velvety spots on leaves and cracked lesions on developing fruits.,Plant Protection,Disease,Apple
+KR-PP-059,Shoot borer and rhizome fly larvae causing rotting in ginger crop.,Plant Protection,Pest Management,Ginger
+KR-PP-060,Soft rot (rhizome rot) disease in ginger caused by Pythium fungus during heavy rains.,Plant Protection,Disease,Ginger
+KR-PP-061,Insect attack in crops: caterpillars are eating my vegetable leaves rapidly.,Plant Protection,Pest Management,General
+KR-PP-062,Damping off in nursery beds: seedlings collapsing at soil surface.,Plant Protection,Disease,General
+KR-PP-063,Loose smut in wheat earheads turning into black powdery mass of spores.,Plant Protection,Disease,Wheat
+KR-PP-064,Pod fly and plume moth damaging arhar tur pods at maturity stage.,Plant Protection,Pest Management,Pigeonpea
+KR-PP-065,Sterility mosaic disease SMD in red gram causing bushy growth and no pod formation.,Plant Protection,Disease,Pigeonpea
+KR-PP-066,Which bio-control agent should I release to control aphids in green fodder?,Plant Protection,Pest Management,General
+KR-PP-067,Downy mildew yellow angular leaf spots on cucumber and bitter gourd vines.,Plant Protection,Disease,Cucumber
+KR-PP-068,Fusarium wilt and gummy stem blight in watermelon during fruiting stage.,Plant Protection,Disease,Watermelon
+KR-PP-069,Thrips feeding between leaves in garlic bulb crop causing whitening.,Plant Protection,Pest Management,Garlic
+KR-PP-070,Head borer caterpillar attacking sunflower head during seed filling.,Plant Protection,Pest Management,Sunflower
+KR-W-001,Is there any rain forecast in Punjab and Haryana over the next 48 hours?,Weather,Rainfall Forecast,General
+KR-W-002,Heavy rainfall prediction in coastal Andhra. Should I postpone paddy harvesting?,Weather,Rainfall Forecast,General
+KR-W-003,What is the expected monsoon arrival date in western Rajasthan this year?,Weather,Monsoon,General
+KR-W-004,Continuous rains for past 3 days: how to drain standing water from cotton field?,Weather,Rainfall Advisory,General
+KR-W-005,Severe frost warning (paala) predicted tonight. How to protect mustard crop from cold injury?,Weather,Frost/Cold Wave,Mustard
+KR-W-006,Cold wave conditions approaching: will light irrigation at night protect potato tubers from frost?,Weather,Frost/Cold Wave,Potato
+KR-W-007,Smoke creation or thatch cover to safeguard vegetable nursery from ground frost.,Weather,Frost/Cold Wave,Vegetables
+KR-W-008,Hailstorm alert issued for North India: steps to minimize lodging damage in standing wheat.,Weather,Hailstorm,Wheat
+KR-W-009,Hailstorm destroyed mature mustard pods: immediate advisory for salvage and damage reporting.,Weather,Hailstorm,Mustard
+KR-W-010,Terminal heat stress forecast with temperatures exceeding 35 degrees during wheat grain filling.,Weather,Heatwave,Wheat
+KR-W-011,Will hot dry winds cause shrivelled grains in late-sown wheat? Preventive spray advice?,Weather,Heatwave,Wheat
+KR-W-012,High relative humidity (above 90%) and cloudy sky: favorable for blast disease outbreak?,Weather,High Humidity,Paddy
+KR-W-013,Delayed monsoon dry spell lasting 20 days: how to save rainfed paddy nursery from drying?,Weather,Drought,Paddy
+KR-W-014,Moisture stress in rainfed chickpea: advisory on life-saving protective irrigation.,Weather,Drought,Pulses
+KR-W-015,Squall and high winds expected: how to prop up tall sugarcane to prevent lodging?,Weather,Wind/Storm,Sugarcane
+KR-W-016,Gale winds advisory: earthing up and bamboo staking for bunch-bearing banana plants.,Weather,Wind/Storm,Banana
+KR-W-017,Cyclone warning issued for Bay of Bengal coast: urgent pre-cyclone harvesting advisory for paddy.,Weather,Cyclone,Coastal Crops
+KR-W-018,Can I apply top-dress urea when rain is predicted tomorrow morning?,Weather,Precipitation,Wheat
+KR-W-019,High night temperature causing excessive blossom drop in hybrid tomato plants.,Weather,Temperature,Tomato
+KR-W-020,Chilling hours requirement not met due to warm winter in Himachal apple orchards.,Weather,Temperature,Apple
+KR-W-021,Unseasonal rain forecasted during wheat harvesting: should we cover harvested heaps?,Weather,Unseasonal Rain,Wheat
+KR-W-022,Cloudy overcast weather during gram flowering: risk of flower shedding.,Weather,Unseasonal Rain,Gram
+KR-W-023,Break monsoon conditions in Madhya Pradesh: impact on soybean pod development.,Weather,Rainfall Forecast,Soybean
+KR-W-024,Late onset of south-west monsoon: can short-duration groundnut varieties be sown?,Weather,Monsoon,Groundnut
+KR-W-025,Waterlogging in maize field following flash floods: how many days can maize survive submerged?,Weather,Rainfall Advisory,Maize
+KR-W-026,High day temperatures above 42C causing boll shedding in American cotton.,Weather,Temperature,Cotton
+KR-W-027,Intermittent drizzle making foliar sprays wash away: rainfast adjuvant guidelines.,Weather,Rainfall Advisory,Vegetables
+KR-W-028,Frost protection measures for sensitive papaya trees in North Indian plains.,Weather,Frost/Cold Wave,Papaya
+KR-W-029,High humidity and morning dew triggering downy mildew risk in Nashik vineyards.,Weather,Humidity,Grape
+KR-W-030,Strong thunderstorms causing premature drop of small pea-sized mango fruits.,Weather,Wind/Storm,Mango
+KR-W-031,Contingent crop planning under severe deficit rainfall in Marathwada region.,Weather,Drought,Millets
+KR-W-032,IMD Agromet advisory: is normal rainfall expected in Gangetic West Bengal this week?,Weather,Rainfall Forecast,Paddy
+KR-W-033,Heat stress management in high-yielding milch cattle during peak summer months.,Weather,Heatwave,Dairy
+KR-W-034,Sudden dip in night temperatures: protecting blooming cumin crop in Gujarat.,Weather,Frost/Cold Wave,Cumin
+KR-W-035,Standing water in urad dal field after cloudburst: drainage channel creation tips.,Weather,Rainfall Advisory,Pulses
+KR-W-036,El Nino weather pattern impact on Kharif crop sowing timelines across India.,Weather,Monsoon,General
+KR-W-037,Light drizzle during mustard pod filling stage: risk of Alternaria blight outbreak.,Weather,Precipitation,Mustard
+KR-W-038,Warm night temperatures hindering potato tuberization: ideal temperature range.,Weather,Temperature,Potato
+KR-W-039,Lodging of tall Basmati rice varieties due to gusty rainstorms at maturity.,Weather,Wind/Storm,Paddy
+KR-W-040,Polyhouse temperature regulation to prevent chilling injury in off-season tomato.,Weather,Frost/Cold Wave,Tomato
+KR-W-041,Tasseling and silking desiccation under extreme heatwave conditions in spring maize.,Weather,Heatwave,Maize
+KR-W-042,Can we harvest cotton bolls if overcast conditions and drizzle are predicted?,Weather,Rainfall Forecast,Cotton
+KR-W-043,Water-saving sprinkler irrigation schedule for fodder crops during acute drought.,Weather,Drought,Fodder
+KR-W-044,Wet harvested mustard crop lying on threshing floor: moisture content reduction.,Weather,Unseasonal Rain,Mustard
+KR-W-045,Bacterial leaf streak incidence following foggy humid mornings in terai zone.,Weather,High Humidity,Paddy
+KR-W-046,Rain immediately after first crown root irrigation CRI: risk of seedling yellowing.,Weather,Rainfall Advisory,Wheat
+KR-W-047,Sudden spike in February temperatures: will early maturity reduce wheat yield?,Weather,Temperature,Wheat
+KR-W-048,Prolonged water stagnation in sugarcane crop during monsoon: drainage measures.,Weather,Monsoon,Sugarcane
+KR-W-049,Winter fog and low temperature causing stunt growth in green chilli nursery.,Weather,Frost/Cold Wave,Chilli
+KR-W-050,Post-cyclone submerged saline water management in coastal paddy lands.,Weather,Cyclone,Paddy
+KR-W-051,Bordeaux paste application on wounded branches of fruit trees after hailstorm.,Weather,Hailstorm,Fruit Trees
+KR-W-052,Summer ventilation and sprinkler cooling for broiler poultry shed in heatwave.,Weather,Heatwave,Poultry
+KR-W-053,Weekly weather forecast bulletin for district agricultural operations.,Weather,Rainfall Forecast,General
+KR-W-054,Pegging stage soil moisture requirement: rain forecast vs supplementary irrigation.,Weather,Precipitation,Groundnut
+KR-W-055,Root lodging in sweet corn caused by strong monsoon winds: recovery techniques.,Weather,Wind/Storm,Maize
+KR-W-056,Dry spell coping strategies for medium-duration red gram in rainfed drylands.,Weather,Drought,Pigeonpea
+KR-W-057,Sprouting of paddy seeds in panicle due to continuous unseasonal rain at harvest.,Weather,Unseasonal Rain,Paddy
+KR-W-058,Soft rot intensification due to persistent cloud cover and soil saturation.,Weather,High Humidity,Ginger
+KR-W-059,Coriander crop turning reddish purple under severe cold wave stress.,Weather,Frost/Cold Wave,Coriander
+KR-W-060,Premature bulb splitting caused by erratic temperature fluctuations during winter.,Weather,Temperature,Garlic
+KR-W-061,Grain mold development on jowar earheads following late post-monsoon showers.,Weather,Rainfall Advisory,Sorghum
+KR-W-062,Bitter taste in cucumber fruit due to high temperature and moisture deficit.,Weather,Heatwave,Cucumber
+KR-W-063,Square drying and drop in rainfed cotton due to 4 weeks dry spell.,Weather,Drought,Cotton
+KR-W-064,Excess rain causing root asphyxiation and poor nodulation in black soils.,Weather,Monsoon,Soybean
+KR-W-065,Methi crop tip burning due to frost. Should we spray dilute sulfuric acid or sulfur?,Weather,Frost/Cold Wave,Fenugreek
+KR-W-066,Stem breakage in tall wheat varieties following western disturbance squall.,Weather,Wind/Storm,Wheat
+KR-W-067,Radar satellite weather updates for timing pesticide spray application.,Weather,Rainfall Forecast,General
+KR-W-068,Low germination percentage due to high soil temperature at sowing time.,Weather,Temperature,Soybean
+KR-W-069,Rabi gram crop rotting in field due to untimely March showers and hailstorm.,Weather,Unseasonal Rain,Gram
+KR-W-070,Crown cleaning and prophylactic salt application on coconut palms post-cyclone.,Weather,Cyclone,Coconut
+KR-GS-001,When will the next 2000 rupee installment of PM-KISAN Samman Nidhi be credited?,Government Schemes,PM-KISAN,General
+KR-GS-002,My PM-KISAN status shows eKYC pending and land seeding no. How to rectify?,Government Schemes,PM-KISAN,General
+KR-GS-003,PM-KISAN installment stopped after bank account IFSC change. Where to submit grievance?,Government Schemes,PM-KISAN,General
+KR-GS-004,Name mismatch between Aadhaar card and land revenue record in PM-KISAN portal.,Government Schemes,PM-KISAN,General
+KR-GS-005,How to file crop damage claim under Pradhan Mantri Fasal Bima Yojana (PMFBY)?,Government Schemes,PMFBY Insurance,Wheat
+KR-GS-006,What is the 72-hour deadline to report localized crop loss on PMFBY Crop Insurance App?,Government Schemes,PMFBY Insurance,Paddy
+KR-GS-007,Cotton crop failed due to pink bollworm. Is pest loss covered under PMFBY insurance policy?,Government Schemes,PMFBY Insurance,Cotton
+KR-GS-008,Premium deduction made by bank for crop insurance but policy certificate not received.,Government Schemes,PMFBY Insurance,General
+KR-GS-009,Post-harvest unseasonal rain loss coverage under PMFBY: process for claim survey.,Government Schemes,PMFBY Insurance,Mustard
+KR-GS-010,What is the interest subvention rate and maximum loan limit for Kisan Credit Card (KCC)?,Government Schemes,Kisan Credit Card,General
+KR-GS-011,How to apply for animal husbandry and fisheries KCC loan without collateral?,Government Schemes,Kisan Credit Card,General
+KR-GS-012,KCC loan renewal documents required at public sector bank branches.,Government Schemes,Kisan Credit Card,General
+KR-GS-013,Can a tenant farmer or sharecropper get Kisan Credit Card under Joint Liability Group (JLG)?,Government Schemes,Kisan Credit Card,General
+KR-GS-014,How to apply for 60% government subsidy on solar agricultural pumps under PM-KUSUM scheme?,Government Schemes,Solar Pump PM-KUSUM,General
+KR-GS-015,Component B of PM-KUSUM: installation of standalone solar irrigation pump application.,Government Schemes,Solar Pump PM-KUSUM,General
+KR-GS-016,Eligibility criteria and state nodal agency portal for off-grid solar water pump subsidy.,Government Schemes,Solar Pump PM-KUSUM,General
+KR-GS-017,Sub-Mission on Agricultural Mechanization (SMAM): subsidy percentage on tractor rotavator.,Government Schemes,Farm Mechanization SMAM,General
+KR-GS-018,How to register on DBT Agriculture portal to get subsidy for happy seeder and super seeder?,Government Schemes,Farm Mechanization SMAM,General
+KR-GS-019,Government subsidy on drone purchase for agricultural spraying under Custom Hiring Centre.,Government Schemes,Farm Mechanization SMAM,General
+KR-GS-020,Subsidy for laser land leveler purchase under farm mechanization scheme.,Government Schemes,Farm Mechanization SMAM,General
+KR-GS-021,How much subsidy is given for drip irrigation installation under PM Krishi Sinchayee Yojana?,Government Schemes,Micro Irrigation PMKSY,General
+KR-GS-022,Per Drop More Crop scheme: process to get sprinkler set installed on agricultural land.,Government Schemes,Micro Irrigation PMKSY,General
+KR-GS-023,Where can a farmer get free soil testing done under Soil Health Card scheme?,Government Schemes,Soil Health Card,General
+KR-GS-024,How to download my digital Soil Health Card using village revenue survey number?,Government Schemes,Soil Health Card,General
+KR-GS-025,Paramparagat Krishi Vikas Yojana (PKVY): financial assistance for organic farmer clusters.,Government Schemes,Organic Farming PKVY,General
+KR-GS-026,Certification subsidy and PGS-India registration under Mission Organic Value Chain.,Government Schemes,Organic Farming PKVY,General
+KR-GS-027,Subsidy for polyhouse and shade net construction under National Horticulture Mission (NHM).,Government Schemes,National Horticulture Mission,Horticulture
+KR-GS-028,Assistance for establishing high-density apple and guava orchards under MIDH.,Government Schemes,National Horticulture Mission,Horticulture
+KR-GS-029,"Subsidy for packhouse, cold room, and refrigerated transport van under horticulture board.",Government Schemes,National Horticulture Mission,Horticulture
+KR-GS-030,"Formation and promotion of 10,000 Farmer Producer Organizations (FPOs): equity grant norms.",Government Schemes,FPO Scheme,General
+KR-GS-031,Management cost grant and matching equity support for newly registered FPO.,Government Schemes,FPO Scheme,General
+KR-GS-032,Agriculture Infrastructure Fund (AIF): 3% interest subvention for building on-farm warehouse.,Government Schemes,Agriculture Infrastructure Fund,General
+KR-GS-033,Loan approval process under AIF for setting up primary processing and sorting unit.,Government Schemes,Agriculture Infrastructure Fund,General
+KR-GS-034,RKVY-RAFTAAR agribusiness incubation scheme funding for rural agri-startups.,Government Schemes,Rashtriya Krishi Vikas Yojana,General
+KR-GS-035,Subsidized certified seeds distribution at Block Agriculture Office: required documents.,Government Schemes,Seed Subsidy,General
+KR-GS-036,Direct Benefit Transfer (DBT) in fertilizers: PoS machine Aadhaar authentication issues.,Government Schemes,Fertilizer Subsidy DBT,General
+KR-GS-037,Rythu Bharosa / KALIA / Bhavantar Bhugtan state agricultural assistance scheme details.,Government Schemes,State Schemes,General
+KR-GS-038,Pashu Bima Yojana: subsidized insurance premium rates for indigenous milch cows.,Government Schemes,Cattle Insurance,Livestock
+KR-GS-039,Dairy Processing and Infrastructure Development Fund (DIDF): interest subvention loans.,Government Schemes,Dairy Infrastructure,Dairy
+KR-GS-040,Pradhan Mantri Matsya Sampada Yojana (PMMSY): subsidy for constructing freshwater fish pond.,Government Schemes,Fisheries Scheme PMMSY,Fisheries
+KR-GS-041,Financial assistance for biofloc fish farming tanks under PMMSY scheme.,Government Schemes,Fisheries Scheme PMMSY,Fisheries
+KR-GS-042,National Beekeeping and Honey Mission (NBHM): subsidy for bee boxes and honey extractor.,Government Schemes,Beekeeping,General
+KR-GS-043,Government assistance for bunker silo construction and silage chaff cutter machine.,Government Schemes,Silage Making,Dairy
+KR-GS-044,Agri-Clinics and Agri-Business Centres (ACABC) scheme: bank loan subsidy for agriculture graduates.,Government Schemes,Agri Clinic ACABC,General
+KR-GS-045,State deep tubewell and borewell subsidy scheme for small and marginal farmers.,Government Schemes,Tubewell Scheme,General
+KR-GS-046,Amrit Sarovar mission: farm pond digging financial support under MGNREGA convergence.,Government Schemes,Pond Rejuvenation,General
+KR-GS-047,Grameen Bhandaran Yojana: capital investment subsidy for rural godowns and grain storage.,Government Schemes,Warehouse Subsidy,General
+KR-GS-048,National Bamboo Mission subsidy for commercial bamboo plantation on degraded farm lands.,Government Schemes,Bamboo Mission,General
+KR-GS-049,Pradhan Mantri Kisan Maan-Dhan Yojana (PM-KMY): monthly 3000 rupee pension for elderly farmers.,Government Schemes,Kisan Pension Scheme,General
+KR-GS-050,Subsidy for setting up commercial button mushroom spawn production and cropping unit.,Government Schemes,Mushroom Cultivation,General
+KR-GS-051,GOBARdhan scheme subsidy for community biogas plant and compressed bio-gas CBG.,Government Schemes,Cow Dung Gobardhan,General
+KR-GS-052,Financial subsidy for constructing permanent HDPE vermicompost beds under state scheme.,Government Schemes,Vermi-compost Unit,General
+KR-GS-053,Crop Residue Management scheme 50% individual subsidy on straw management equipment.,Government Schemes,Crop Residue CRM,General
+KR-GS-054,Incentives for farmers selling produce through e-NAM portal rather than physical mandi.,Government Schemes,Agri Marketing e-NAM,General
+KR-GS-055,Subsidy for cultivation of medicinal and aromatic crops like Ashwagandha and Lemongrass.,Government Schemes,Medicinal Plants,General
+KR-GS-056,Government subsidy for solar powered electric fencing to protect crops from wild animals.,Government Schemes,Electric Fencing,General
+KR-GS-057,Subsidy percentage for naturally ventilated polyhouse under MIDH in non-hilly states.,Government Schemes,Greenhouse,Horticulture
+KR-GS-058,Transport and Marketing Assistance (TMA) scheme for export of specified agricultural products.,Government Schemes,Agri Export,General
+KR-GS-059,Silk Samagra scheme: assistance for mulberry cultivation and silkworm rearing sheds.,Government Schemes,Silkworm Sericulture,General
+KR-GS-060,Subsidy on liquid biofertilizers and city compost distribution to organic growers.,Government Schemes,Organic Input,General
+KR-GS-061,What penalty is charged if Kisan Credit Card loan is not repaid within 365 days?,Government Schemes,KCC Renewal,General
+KR-GS-062,How to surrender PM-KISAN benefits if a family member becomes a government income taxpayer?,Government Schemes,PM-KISAN,General
+KR-GS-063,Soybean crop inundated with water: which toll free number to dial for PMFBY surveyor?,Government Schemes,PMFBY Insurance,Soybean
+KR-GS-064,Online application portal for drip lateral subsidy in Maharashtra and Karnataka.,Government Schemes,Micro Irrigation,General
+KR-GS-065,Is there any direct government scheme providing 50% subsidy on buying a new tractor?,Government Schemes,Tractor Subsidy,General
+KR-GS-066,National Livestock Mission (NLM): subsidy for fodder seed production and processing.,Government Schemes,Fodder Scheme,General
+KR-GS-067,How often is the Soil Health Card renewed for agricultural land parcels?,Government Schemes,Soil Health Card,General
+KR-GS-068,Incentive per acre for shifting from water-guzzling paddy to maize or pulses crop.,Government Schemes,Crop Diversification,General
+KR-GS-069,Mahila Kisan Sashaktikaran Pariyojana (MKSP): training and input support for women farmers.,Government Schemes,Women Farmer MKSP,General
+KR-GS-070,Can an individual farmer get credit guarantee coverage under CGTMSE for AIF godown loan?,Government Schemes,AIF Warehouse,General
+KR-NM-001,What is the recommended NPK fertilizer dose per acre for Timely Sown Irrigated Wheat?,Nutrient Management,Macronutrients,Wheat
+KR-NM-002,How much urea should be applied at first irrigation (crown root stage) in wheat?,Nutrient Management,Macronutrients,Wheat
+KR-NM-003,DAP vs SSP: which phosphorus fertilizer is better for wheat sown in alkaline soils?,Nutrient Management,Macronutrients,Wheat
+KR-NM-004,Yellowing of interveinal areas of upper wheat leaves. Is it manganese deficiency?,Nutrient Management,Micronutrients,Wheat
+KR-NM-005,"Basal fertilizer application dose for Basmati rice: urea, DAP, and muriate of potash MOP.",Nutrient Management,Macronutrients,Paddy
+KR-NM-006,Split application of nitrogen in rice: how many splits and at which growth stages?,Nutrient Management,Macronutrients,Paddy
+KR-NM-007,Khaira disease symptoms in paddy: brown rusty spots on leaves due to zinc deficiency.,Nutrient Management,Micronutrients,Paddy
+KR-NM-008,Zinc sulfate foliar spray dose (21% vs 33% zinc sulfate) with slaked lime for rice.,Nutrient Management,Micronutrients,Paddy
+KR-NM-009,Cotton leaf reddening due to magnesium deficiency: dose of magnesium sulfate foliar spray.,Nutrient Management,Macronutrients,Cotton
+KR-NM-010,Balanced fertilization for Bt cotton: nitrogen requirement during flowering and boll formation.,Nutrient Management,Macronutrients,Cotton
+KR-NM-011,Sulfur requirement in mustard crop: why is bentonite sulfur or gypsum essential for oil content?,Nutrient Management,Macronutrients,Mustard
+KR-NM-012,Fertilizer schedule for rainfed vs irrigated raya mustard per bigha.,Nutrient Management,Macronutrients,Mustard
+KR-NM-013,"Total fertilizer schedule for spring planted sugarcane: nitrogen, phosphorus, and potassium.",Nutrient Management,Macronutrients,Sugarcane
+KR-NM-014,Iron chlorosis in young sugarcane ratoon: ferrous sulfate foliar spray with citric acid.,Nutrient Management,Macronutrients,Sugarcane
+KR-NM-015,Rhizobium culture and Phosphate Solubilizing Bacteria (PSB) seed inoculation in chickpea.,Nutrient Management,Biofertilizer,Pulses
+KR-NM-016,Does chickpea need high nitrogen fertilizer or will basal DAP 50 kg suffice?,Nutrient Management,Macronutrients,Gram/Chickpea
+KR-NM-017,Molybdenum and boron deficiency in pulses leading to poor nodulation and flower drop.,Nutrient Management,Micronutrients,Pulses
+KR-NM-018,Potash application in potato: why Sulfate of Potash (SOP) is preferred over Muriate of Potash (MOP)?,Nutrient Management,Macronutrients,Potato
+KR-NM-019,Heavy feeder potato crop nutrient schedule: FYM and chemical fertilizer recommendations.,Nutrient Management,Macronutrients,Potato
+KR-NM-020,Calcium deficiency causing Blossom End Rot (BER) in hybrid tomatoes: calcium nitrate spray.,Nutrient Management,Macronutrients,Tomato
+KR-NM-021,"Water soluble fertilizer schedule (19:19:19, 12:61:0, 0:0:50) through drip fertigation in polyhouse.",Nutrient Management,Fertigation,Tomato
+KR-NM-022,How to reclaim sodic soil with high pH (above 8.5) using agricultural gypsum?,Nutrient Management,Soil pH,General
+KR-NM-023,Acidic soil management: lime (calcium carbonate) application rate based on soil test report.,Nutrient Management,Soil pH,General
+KR-NM-024,Green manuring with Dhaincha (Sesbania) or Sunnhemp: when to incorporate into soil?,Nutrient Management,Organic Matter,General
+KR-NM-025,"How to prepare enriched vermicompost using cow dung, crop waste, and Eisenia fetida worms.",Nutrient Management,Organic Matter,General
+KR-NM-026,Correct method to take composite soil sample from agricultural field for laboratory testing.,Nutrient Management,Soil Testing,General
+KR-NM-027,"How to interpret Soil Health Card values: organic carbon %, available N, P, and K.",Nutrient Management,Soil Testing,General
+KR-NM-028,Boron deficiency in mustard causing cracked pods and poor seed filling. Borax application.,Nutrient Management,Micronutrients,Mustard
+KR-NM-029,"Citrus yellow vein chlorosis: micronutrient cocktail spray (Zinc, Copper, Manganese, Boron).",Nutrient Management,Micronutrients,Citrus
+KR-NM-030,Nitrogen hunger signs in maize: V-shaped yellowing starting from tip along midrib of lower leaves.,Nutrient Management,Macronutrients,Maize
+KR-NM-031,Zinc deficiency in maize causing white bud symptom: zinc sulfate soil application dose.,Nutrient Management,Macronutrients,Maize
+KR-NM-032,"Sulfur fertilization in onion for bulb pungency, firmness, and storage quality.",Nutrient Management,Macronutrients,Onion
+KR-NM-033,Foliar nutrition with 0:52:34 (mono potassium phosphate) during flowering to stop flower drop.,Nutrient Management,Macronutrients,Chilli
+KR-NM-034,Azotobacter and Mycorrhiza VAM bio-fertilizer application method in wheat crop.,Nutrient Management,Biofertilizer,Wheat
+KR-NM-035,Blue-green algae (BGA) and Azolla bio-fertilizer bio-mass incorporation in wetland rice.,Nutrient Management,Biofertilizer,Paddy
+KR-NM-036,Basal NPK dose for rainfed soybean in medium black soils: why urea top-dressing is discouraged.,Nutrient Management,Macronutrients,Soybean
+KR-NM-037,Gypsum application at 30-40 days pegging stage in groundnut for pod filling and shelling %.,Nutrient Management,Macronutrients,Groundnut
+KR-NM-038,Nano Urea foliar spray dosage (4 ml per litre) and right growth stage for spraying on wheat.,Nutrient Management,Liquid Fertilizer,General
+KR-NM-039,Nano DAP vs traditional bagged DAP: foliar spray schedule and seed coating efficiency.,Nutrient Management,Liquid Fertilizer,General
+KR-NM-040,Nutrient schedule for Grand Naine tissue culture banana: per-plant monthly fertilizer dose.,Nutrient Management,Macronutrients,Banana
+KR-NM-041,Post-harvest fertilization in bearing mango trees: ring method application of FYM and NPK.,Nutrient Management,Macronutrients,Mango
+KR-NM-042,Bitter pit in apples caused by calcium deficiency: calcium chloride foliar sprays.,Nutrient Management,Micronutrients,Apple
+KR-NM-043,Potassium application in apple orchards for fruit color development and fruit size.,Nutrient Management,Macronutrients,Apple
+KR-NM-044,"Jeevamrut preparation with desi cow dung, cow urine, jaggery, besan, and virgin soil.",Nutrient Management,Organic Matter,General
+KR-NM-045,Waste Decomposer usage: how to decompose paddy straw residue in situ without burning.,Nutrient Management,Organic Matter,General
+KR-NM-046,Managing saline irrigation water: leaching fraction and salt tolerant crop selection.,Nutrient Management,Soil Salinity,General
+KR-NM-047,Rhizome development nutrient requirement: role of potassium and boron in ginger.,Nutrient Management,Micronutrients,Ginger
+KR-NM-048,Split application of nitrogen in garlic and stopping nitrogen 30 days before harvest.,Nutrient Management,Macronutrients,Garlic
+KR-NM-049,Trash mulching and ratoon management fertilizer booster dose for sugarcane.,Nutrient Management,Macronutrients,Sugarcane
+KR-NM-050,Borax application at ray floret stage to prevent hollow seeds in sunflower heads.,Nutrient Management,Macronutrients,Sunflower
+KR-NM-051,Starving plants: yellow lower leaves in arhar crop. Is it nitrogen or sulfur deficiency?,Nutrient Management,Macronutrients,Pigeonpea
+KR-NM-052,Fertilizer dose for malting barley: why excess nitrogen reduces malting quality.,Nutrient Management,Macronutrients,Barley
+KR-NM-053,"Differences between Complex fertilizers (10:26:26, 12:32:16, 20:20:0:13) and straight fertilizers.",Nutrient Management,Macronutrients,General
+KR-NM-054,Low organic carbon below 0.4% in sandy loam soil: steps to build up soil organic carbon.,Nutrient Management,Soil Testing,General
+KR-NM-055,Chelated zinc EDTA 12% vs Zinc sulfate heptahydrate 21%: efficiency and spray compatibility.,Nutrient Management,Micronutrients,General
+KR-NM-056,Whiptail disease in cauliflower due to molybdenum deficiency in acidic soils.,Nutrient Management,Macronutrients,Cauliflower
+KR-NM-057,Tip burn in cabbage heads caused by irregular calcium uptake during rapid growth.,Nutrient Management,Macronutrients,Cabbage
+KR-NM-058,Biochar application in soil: benefits for soil water retention and nutrient cation exchange.,Nutrient Management,Organic Matter,General
+KR-NM-059,Iron deficiency chlorosis in chickpea grown on calcareous soils: ferrous spray remedy.,Nutrient Management,Micronutrients,Pulses
+KR-NM-060,Acid injection to clean clogged drip emitters caused by calcium carbonate scaling.,Nutrient Management,Fertigation,Vegetables
+KR-NM-061,Fertilizer feeding chart for mulched watermelon from germination to harvest.,Nutrient Management,Macronutrients,Watermelon
+KR-NM-062,NPK application dose for rainy season bhendi crop: basal and top dressing splits.,Nutrient Management,Macronutrients,Okra
+KR-NM-063,Heavy fruiting brinjal crop: foliar feeding with potassium nitrate 13:0:45.,Nutrient Management,Macronutrients,Brinjal
+KR-NM-064,Gluconacetobacter diazotrophicus endophytic nitrogen-fixing bio-fertilizer for sugarcane.,Nutrient Management,Biofertilizer,Sugarcane
+KR-NM-065,Can urea and DAP be mixed together before broadcasting in field?,Nutrient Management,Macronutrients,General
+KR-NM-066,High electrical conductivity EC in soil test report: causes of salt accumulation.,Nutrient Management,Soil Salinity,General
+KR-NM-067,Foliar spray of 2% urea solution during drought or dry spell to revive crop.,Nutrient Management,Liquid Fertilizer,Wheat
+KR-NM-068,"Nitrogen dosing in multi-cut forage crops (Barseem, Oat, Sorghum) after each cutting.",Nutrient Management,Macronutrients,Fodder
+KR-NM-069,Magnesium deficiency in tomato: yellowing between green veins on older bottom leaves.,Nutrient Management,Micronutrients,Tomato
+KR-NM-070,Foliar nutrition with potassium nitrate 13:0:45 at boll development in cotton.,Nutrient Management,Macronutrients,Cotton
+KR-MI-001,What is the today wholesale market price of Sharbati wheat in Khanna and Indore mandi?,Market Information,Mandi Price,Wheat
+KR-MI-002,What is the central government Minimum Support Price (MSP) for wheat for the upcoming Rabi marketing season?,Market Information,MSP Rates,Wheat
+KR-MI-003,What is the daily arrival price of 1509 and 1121 Basmati paddy in Karnal and Taraori mandis?,Market Information,Mandi Price,Paddy
+KR-MI-004,Government declared MSP rate for Common Paddy and Grade A Paddy per quintal.,Market Information,MSP Rates,Paddy
+KR-MI-005,"Raw seed cotton (kapas) mandi rates in Rajkot, Adilabad, and Abohar today.",Market Information,Mandi Price,Cotton
+KR-MI-006,MSP for Medium Staple and Long Staple cotton announced by Ministry of Agriculture.,Market Information,MSP Rates,Cotton
+KR-MI-007,Sarson mandi bhav in Jaipur and Bharatpur: what is the prevailing rate per quintal?,Market Information,Mandi Price,Mustard
+KR-MI-008,Is the current market price of mustard trading above or below the official MSP?,Market Information,MSP Rates,Mustard
+KR-MI-009,How can an individual farmer register and sell agricultural produce on the e-NAM portal?,Market Information,e-NAM Portal,General
+KR-MI-010,What assaying and quality testing parameters are checked for wheat on e-NAM platform?,Market Information,e-NAM Portal,General
+KR-MI-011,How is electronic payment settled directly to farmer bank account after e-auction on e-NAM?,Market Information,e-NAM Portal,General
+KR-MI-012,Soybean price trend in Ujjain and Latur mandis: should I hold or sell my stock now?,Market Information,Mandi Price,Soybean
+KR-MI-013,Government procurement centers for soybean at MSP: where is the nearest NAFED purchase center?,Market Information,MSP Rates,Soybean
+KR-MI-014,Chana wholesale price in Bikaner and Delhi Naya Bazar grain market.,Market Information,Mandi Price,Gram/Chickpea
+KR-MI-015,NAFED procurement guidelines and registration portal for Bengal gram at MSP.,Market Information,MSP Rates,Gram/Chickpea
+KR-MI-016,How to deposit grain in WDRA accredited warehouse and obtain Electronic Negotiable Warehouse Receipt (e-NWR)?,Market Information,Storage/Warehousing,General
+KR-MI-017,Can I take a pledge loan from bank against stored crop warehouse receipts?,Market Information,Storage/Warehousing,General
+KR-MI-018,Cold storage rental charges per bag for storing seed potatoes in Agra and Jalandhar.,Market Information,Storage/Warehousing,Potato
+KR-MI-019,How to construct low-cost ventilated onion storage structure to prevent rotting and weight loss?,Market Information,Storage/Warehousing,Onion
+KR-MI-020,Onion modal rates in Lasalgaon and Pimpalgaon APMC mandi today.,Market Information,Mandi Price,Onion
+KR-MI-021,Wholesale vegetable market prices for hybrid tomato in Kolar and Madanapalle mandis.,Market Information,Mandi Price,Tomato
+KR-MI-022,New potato harvest arrival rates in Farrukhabad and Kolkata wholesale markets.,Market Information,Mandi Price,Potato
+KR-MI-023,Guntur dry red chilli mandi prices for Teja and Byadagi varieties.,Market Information,Mandi Price,Chilli
+KR-MI-024,Garlic auction price in Mandsaur and Kota mandi per quintal.,Market Information,Mandi Price,Garlic
+KR-MI-025,Jeera auction price in Unjha APMC market yard today.,Market Information,Mandi Price,Cumin
+KR-MI-026,Turmeric finger rates in Nizamabad and Erode regulated markets.,Market Information,Mandi Price,Turmeric
+KR-MI-027,Fresh ginger wholesale market prices in Wayanad and Azadpur Mandi Delhi.,Market Information,Mandi Price,Ginger
+KR-MI-028,Basmati rice export floor price (MEP) and demand outlook in Middle Eastern markets.,Market Information,Export/Trade,Basmati Rice
+KR-MI-029,Government export duty or ban on onion shipments: current notification status.,Market Information,Export/Trade,Onion
+KR-MI-030,Export policy on Indian wheat and flour: is open market export allowed currently?,Market Information,Export/Trade,Wheat
+KR-MI-031,Makka prices in Gulabbagh Purnea and Davangere mandis: poultry feed industry demand.,Market Information,Mandi Price,Maize
+KR-MI-032,Procurement agencies buying maize at MSP in Bihar and Telangana.,Market Information,MSP Rates,Maize
+KR-MI-033,Tur arhar dal wholesale mandi bhav in Gulbarga and Akola.,Market Information,Mandi Price,Pigeonpea
+KR-MI-034,Pradhan Mantri Annadata Aay Sanrakshan Abhiyan (PM-AASHA) procurement of pulses at MSP.,Market Information,MSP Rates,Pigeonpea
+KR-MI-035,Groundnut pod auction prices in Gondal and Rajkot yard.,Market Information,Mandi Price,Groundnut
+KR-MI-036,Box rates for Royal Delicious apple in Azadpur Mandi Delhi and fruit arrivals from Shimla.,Market Information,Mandi Price,Apple
+KR-MI-037,Raw and ripe banana rates per crate in Jalgaon and Solapur markets.,Market Information,Mandi Price,Banana
+KR-MI-038,Alphonso and Kesar mango wholesale auction rates in Vashi APMC Mumbai.,Market Information,Mandi Price,Mango
+KR-MI-039,Small green cardamom auction average price at Spices Board auction centre Bodinayakanur.,Market Information,Mandi Price,Cardamom
+KR-MI-040,Un-garbled black pepper prices in Kochi spot market.,Market Information,Mandi Price,Black Pepper
+KR-MI-041,Fair and Remunerative Price (FRP) of sugarcane fixed for sugar mills in UP and Maharashtra.,Market Information,Mandi Price,Sugarcane
+KR-MI-042,Castor seed futures and spot mandi prices in Deesa and Palanpur.,Market Information,Mandi Price,Castor Seed
+KR-MI-043,White till and black til price per quintal in Rajkot mandi.,Market Information,Mandi Price,Sesame
+KR-MI-044,Feed grade and malt grade barley prices in Sri Ganganagar mandi.,Market Information,Mandi Price,Barley
+KR-MI-045,Scientific hermetic storage bags (Purdue Improved Crop Storage PICS) to protect stored wheat from weevils.,Market Information,Storage/Warehousing,Wheat
+KR-MI-046,CWC and SWC warehouse charges per metric ton per month for foodgrains.,Market Information,Storage/Warehousing,General
+KR-MI-047,How to check daily mandi arrival volumes and price trends on Agmarknet portal?,Market Information,Market Arrival,General
+KR-MI-048,"Dhaniya market rate in Baran, Ramganj Mandi, and Guna.",Market Information,Mandi Price,Coriander
+KR-MI-049,Methi seed wholesale price in Neemuch mandi.,Market Information,Mandi Price,Fenugreek
+KR-MI-050,Psyllium husk (Isabgol) raw seed market price in Siddhpur.,Market Information,Mandi Price,Isabgol
+KR-MI-051,FCI wheat procurement portal registration process for Rabi marketing season.,Market Information,Procurement Center,Wheat
+KR-MI-052,How to book online slot on e-Kharid portal for selling paddy at grain procurement center.,Market Information,Procurement Center,Paddy
+KR-MI-053,Green gram (moong dal) market price in Jaipur and Sumerpur mandis.,Market Information,Mandi Price,Moong
+KR-MI-054,MSP rate of moong and summer moong procurement registration date.,Market Information,MSP Rates,Moong
+KR-MI-055,Black gram wholesale price in Indore and Jabalpur markets.,Market Information,Mandi Price,Urad
+KR-MI-056,Moth bean prices in Bikaner and Nagaur mandis.,Market Information,Mandi Price,Moth Bean
+KR-MI-057,Fresh green pea pods wholesale rate per sack in Hoshiarpur and Azadpur.,Market Information,Mandi Price,Green Peas
+KR-MI-058,Farmgate price of Kiran hybrid watermelon in Ahmednagar district.,Market Information,Mandi Price,Watermelon
+KR-MI-059,Vegetable market arrivals and crash in cauliflower prices in Nashik APMC.,Market Information,Mandi Price,Cauliflower
+KR-MI-060,Bhagwa pomegranate farmgate packing rates in Solapur and Sangli.,Market Information,Mandi Price,Pomegranate
+KR-MI-061,Export grade Thomson Seedless grapes rate per kilogram in Nashik region.,Market Information,Mandi Price,Grapes
+KR-MI-062,Red Lady 786 papaya farmgate rate per kg in Anantapur and Barwani.,Market Information,Mandi Price,Papaya
+KR-MI-063,Where can I view real-time Agmarknet commodity arrival bulletins on mobile?,Market Information,Market Arrival,General
+KR-MI-064,Cold storage humidity and temperature conditions required for garlic bulbs.,Market Information,Storage/Warehousing,Garlic
+KR-MI-065,Central government procurement price of red lentil (masoor) for current year.,Market Information,MSP Rates,Lentil/Masoor
+KR-MI-066,Mentha oil spot rate in Sambhal and Chandausi spot trading markets.,Market Information,Mandi Price,Mentha
+KR-MI-067,Export demand and certification requirements for exporting organic turmeric to European Union.,Market Information,Export/Trade,Organic
+KR-MI-068,Auction prices of CTC and Orthodox tea grades in Siliguri and Coonoor auctions.,Market Information,Mandi Price,Tea
+KR-MI-069,Arabica parchment and Robusta cherry farmgate prices in Chikmagalur and Kodagu.,Market Information,Mandi Price,Coffee
+KR-MI-070,Cotton Corporation of India (CCI) procurement centers and moisture deduction rules.,Market Information,Procurement Center,Cotton
