@@ -155,3 +155,4 @@ Returns full genuine dataset and evaluation metrics JSON for analytical renderin
 
 ### `POST /api/explain`
 Generates a grounded explanation of the routing rationale via server-side Gemini 2.5 Flash, with deterministic rule fallback.
+

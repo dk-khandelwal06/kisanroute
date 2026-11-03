@@ -52,3 +52,4 @@ The dataset comprises 5 distinct agricultural operational categories:
 ## 5. Ethical Considerations & Privacy
 - **Zero Personally Identifiable Information (PII):** No farmer names, phone numbers, Aadhaar numbers, or bank accounts are recorded.
 - **Fair Representation:** Samples represent smallholder queries across major agro-climatic zones of India.
+

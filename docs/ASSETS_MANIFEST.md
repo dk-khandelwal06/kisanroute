@@ -32,3 +32,4 @@ All photographic backgrounds and editorial gallery media are sourced from **Unsp
 - **Color Contrast:** Every photographic scene is overlaid with semi-opaque natural ivory gradients (`bg-ivory/85`) in Light mode and deep forest gradients (`bg-agri-950/90`) in Dark mode to guarantee WCAG AA text contrast.
 - **Fallbacks:** In the event of network disruption, solid theme backgrounds (`bg-soil-50` / `bg-agri-950`) provide resilient fallbacks.
 - **Reduced Motion:** Interactive CSS transitions and Framer Motion effects respect `prefers-reduced-motion: reduce`.
+

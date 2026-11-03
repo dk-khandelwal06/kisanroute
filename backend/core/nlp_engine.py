@@ -130,3 +130,4 @@ class NLPEngine:
 
 # Global singleton
 nlp_engine = NLPEngine()
+

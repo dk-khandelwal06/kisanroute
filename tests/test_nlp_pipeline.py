@@ -50,3 +50,4 @@ def test_routing_directory():
 def test_low_confidence_fallback_routing():
     fallback = get_specialist_routing("Unknown Category", is_low_confidence=True)
     assert fallback["role"] == "General Agricultural Extension Helpdesk"
+

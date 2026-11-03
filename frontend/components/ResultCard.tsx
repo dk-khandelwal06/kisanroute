@@ -275,3 +275,4 @@ Contact Channel: ${result.specialist.contact_channel}`;
     </div>
   );
 }
+

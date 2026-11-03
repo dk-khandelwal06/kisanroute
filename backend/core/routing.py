@@ -110,3 +110,4 @@ def get_specialist_routing(category: str, is_low_confidence: bool = False) -> Di
     if is_low_confidence or category not in ROUTING_DIRECTORY:
         return DEFAULT_FALLBACK_ROUTING
     return ROUTING_DIRECTORY[category]
+

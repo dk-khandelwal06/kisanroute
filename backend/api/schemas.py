@@ -82,3 +82,4 @@ class ModelInfoResponse(BaseModel):
     vocabulary_size: int
     dataset_metadata: Dict[str, Any]
     evaluation_summary: Dict[str, Any]
+

@@ -79,3 +79,4 @@ export function Logo({ className = "", size = "md", showTagline = false }: LogoP
     </Link>
   );
 }
+
